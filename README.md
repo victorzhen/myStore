@@ -1,0 +1,4 @@
+myStore
+=======
+
+Welcome to everyone.
